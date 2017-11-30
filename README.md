@@ -4,7 +4,7 @@ Here is the source of my mod for Terraria and tModLoader, JMP Just More Potions.
 
 You can suggest other potions, things you would like or report bugs in Issues!
 
-Changelog:
+**Changelog**:
 
 0.1.2.2:
 ~ 1Up Potion now have icon. I forgot this.
