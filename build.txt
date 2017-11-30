@@ -1,0 +1,7 @@
+author = Fusshy
+version = 0.1.2.2
+displayName = Just More Potions
+hideCode = false
+hideResources = false
+includeSource = true
+homepage = https://github.com/Fusshy/JustMorePotions
