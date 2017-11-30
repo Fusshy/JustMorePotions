@@ -1,2 +1,3 @@
 # JustMorePotions
-Terraria Mod
+
+You can suggest other potions or things you would like to have! 
