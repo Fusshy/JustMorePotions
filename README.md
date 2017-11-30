@@ -8,8 +8,7 @@ You can suggest other potions, things you would like or report bugs in Issues!
 
 0.1.2.2:
 + 1Up Potion now have icon. I forgot this.
-+ Now open source! You can extract with tModReader or see in my github.
-https://github.com/Fusshy/JustMorePotions
++ Now open source! You can extract with tModReader
 
 0.1.2.1:
 + Fixed 1Up Potion buffs don't displaying time.
